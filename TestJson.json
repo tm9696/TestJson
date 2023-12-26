@@ -1,11 +1,40 @@
 {
-  "id": "random",
-  "question": "Câu hỏi",
-  "questionType": "Lĩnh vực",
-  "questionLevel": "1",
-  "answerA": "Đáp án A",
-  "answerB": "Đáp án B",
-  "answerC": "Đáp án C",
-  "answerD": "Đáp án D",
-  "correctAnswer": "A"
+  "questionBank": [
+    {
+      "id": "random",
+      "question": "Câu hỏi",
+      "questionType": "Lĩnh vực",
+      "questionLevel": "1",
+      "questionImage": "url",
+      "answerA": "Đáp án A",
+      "answerB": "Đáp án B",
+      "answerC": "Đáp án C",
+      "answerD": "Đáp án D",
+      "correctAnswer": "A"
+    },
+    {
+      "id": "random",
+      "question": "Câu hỏi",
+      "questionType": "Lĩnh vực",
+      "questionLevel": "1",
+      "questionImage": "url",
+      "answerA": "Đáp án A",
+      "answerB": "Đáp án B",
+      "answerC": "Đáp án C",
+      "answerD": "Đáp án D",
+      "correctAnswer": "A"
+    },
+    {
+      "id": "random",
+      "question": "Câu hỏi",
+      "questionType": "Lĩnh vực",
+      "questionLevel": "1",
+      "questionImage": "url",
+      "answerA": "Đáp án A",
+      "answerB": "Đáp án B",
+      "answerC": "Đáp án C",
+      "answerD": "Đáp án D",
+      "correctAnswer": "A"
+    }
+  ]
 }
